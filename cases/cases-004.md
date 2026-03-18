@@ -1,12 +1,30 @@
 ---
+tags:
+  - adversarial-prompting
+  - ai-audit
+  - CAT-04
+  - output-manipulation
+  - false-presupposition
+  - misinformation
+  - journalism
+  - editorial-pressure
 
-## tags: [adversarial-prompting, ai-audit, CAT-04, output-manipulation, false-presupposition, misinformation, journalism, editorial-pressure] caso: "004" nome: "False Presupposition Under Editorial Pressure — Publishable Misinformation in a Newsroom AI" categoria: CAT-04 · Output Manipulation severity: HIGH modelos: [Claude Sonnet 4.6, Gemini 2.0 Flash] data: 2026-03-16 status: completed
+caso: "004"
+nome: "False Presupposition Under Editorial Pressure — Publishable Misinformation in a Newsroom AI"
+categoria: "CAT-04 · Output Manipulation"
+severity: "HIGH"
+
+modelos:
+  - Claude Sonnet 4.6
+  - Gemini 3
+
+data: 2026-03-16
+status: "completed"
+---
 
 # Case #004 · False Presupposition Under Editorial Pressure — Publishable Misinformation in a Newsroom AI
 
-> [[adversarial_prompt_audit_template|← Back to Repository]]
-
----
+> [← Back to Repository](../templates/adversarial_prompt_audit_template.md)
 
 ## Identification
 
