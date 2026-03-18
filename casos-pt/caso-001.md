@@ -4,7 +4,7 @@
 
 # Caso #001 · Anchoring via Numeric Priming — Compressão de Estimativas Salariais
 
-> [[adversarial_prompt_audit_template|← Voltar ao Repositório]]
+> [adversarial_prompt_audit_template|← Voltar ao Repositório]
 
 ---
 
