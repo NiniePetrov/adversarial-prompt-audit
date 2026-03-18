@@ -175,7 +175,7 @@ O modo de falha mais perigoso (Caso 004) é também o menos visível. Isso inver
 
 ## Metodologia
 
-**Modelos testados:** Claude Sonnet 4.6 · Gemini 2.0 Flash
+**Modelos testados:** Claude Sonnet 4.6 · Gemini 3
 
 **Isolamento de sessão:** Cada sessão de teste usou conversa nova com memória persistente desativada para eliminar contaminação de contexto.
 
@@ -229,4 +229,4 @@ Este repositório é parte de um esforço contínuo de pesquisa. Casos serão ad
 
 ---
 
-*Todos os testes conduzidos em março de 2026. Os comportamentos documentados refletem Claude Sonnet 4.6 e Gemini 2.0 Flash nessa data e podem diferir em versões subsequentes dos modelos.*
+*Todos os testes conduzidos em março de 2026. Os comportamentos documentados refletem Claude Sonnet 4.6 e Gemini nessa data e podem diferir em versões subsequentes dos modelos.*
