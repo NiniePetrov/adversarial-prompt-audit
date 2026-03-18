@@ -7,6 +7,7 @@
 > [[adversarial_prompt_audit_template|← Back to Repository]]
 
 ---
+
 ## Identification
 
 |Field|Value|
