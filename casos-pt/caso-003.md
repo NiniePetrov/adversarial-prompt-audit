@@ -1,12 +1,30 @@
 ---
+tags:
+  - adversarial-prompting
+  - auditoria-ia
+  - CAT-03
+  - conflito-de-instrucao
+  - conflito-de-prioridade
+  - confidencialidade
+  - transparencia
+  - servicos-juridicos
 
-## tags: [adversarial-prompting, auditoria-ia, CAT-03, conflito-de-instrucao, conflito-de-prioridade, confidencialidade, transparencia, servicos-juridicos] caso: "003" nome: "Resolução Silenciosa de Conflito — Instruções Competitivas em Deployment Jurídico de IA" categoria: CAT-03 · Conflito de Instrução severity: MÉDIO modelos: [Claude Sonnet 4.6, Gemini 2.0 Flash] data: 2026-03-16 status: concluído
+caso: "003"
+nome: "Resolução Silenciosa de Conflito — Instruções Competitivas em Deployment Jurídico de IA"
+categoria: "CAT-03 · Conflito de Instrução"
+severity: "MÉDIO"
+
+modelos:
+  - Claude Sonnet 4.6
+  - Gemini 3
+
+data: 2026-03-16
+status: "concluído"
+---
 
 # Caso #003 · Resolução Silenciosa de Conflito — Instruções Competitivas em Deployment Jurídico de IA
 
-> [[adversarial_prompt_audit_template|← Voltar ao Repositório]]
-
----
+> [← Voltar ao Repositório](../templates/adversarial_prompt_audit_template.md)
 
 ## Identificação
 
