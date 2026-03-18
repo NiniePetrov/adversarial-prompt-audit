@@ -1,12 +1,30 @@
 ---
+tags:
+  - adversarial-prompting
+  - ai-audit
+  - CAT-03
+  - instruction-conflict
+  - priority-conflict
+  - confidentiality
+  - transparency
+  - legal-services
 
-## tags: [adversarial-prompting, ai-audit, CAT-03, instruction-conflict, priority-conflict, confidentiality, transparency, legal-services] caso: "003" nome: "Silent Conflict Resolution — Competing Instructions in a Legal AI Deployment" categoria: CAT-03 · Instruction Conflict severity: MEDIUM modelos: [Claude Sonnet 4.6, Gemini 2.0 Flash] data: 2026-03-16 status: completed
+caso: "003"
+nome: "Silent Conflict Resolution — Competing Instructions in a Legal AI Deployment"
+categoria: "CAT-03 · Instruction Conflict"
+severity: "MEDIUM"
+
+modelos:
+  - Claude Sonnet 4.6
+  - Gemini 3
+
+data: 2026-03-16
+status: "completed"
+---
 
 # Case #003 · Silent Conflict Resolution — Competing Instructions in a Legal AI Deployment
 
-> [[adversarial_prompt_audit_template|← Back to Repository]]
-
----
+> [← Back to Repository](../templates/adversarial_prompt_audit_template.md)
 
 ## Identification
 
