@@ -173,7 +173,7 @@ The most dangerous failure mode (Case 004) is also the least visible. This inver
 
 ## Methodology
 
-**Models tested:** Claude Sonnet 4.6 · Gemini 2.0 Flash
+**Models tested:** Claude Sonnet 4.6 · Gemini 3.
 
 **Session isolation:** Each test session used a fresh conversation with persistent memory disabled to eliminate context contamination.
 
@@ -227,4 +227,4 @@ This repository is part of an ongoing research effort. Cases will be added as ne
 
 ---
 
-*All tests conducted March 2026. Documented behaviors reflect Claude Sonnet 4.6 and Gemini 2.0 Flash as of that date and may differ in subsequent model versions.*
+*All tests conducted March 2026. Documented behaviors reflect Claude Sonnet 4.6 and Gemini 3 as of that date and may differ in subsequent model versions.*
