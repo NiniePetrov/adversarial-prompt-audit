@@ -1,16 +1,9 @@
 ---
 
-tags:
-  - adversarial-prompting
-  - ai-audit
-  - prompt-engineering
-
+tags: [adversarial-prompting, ai-audit, prompt-engineering]
 status: em-construção
-
 versão: 1.0
-
 última-atualização:
-
 autor: Weberson Azemclever Dias Braga De Souza
 
 # Adversarial Prompt Audit Repository
