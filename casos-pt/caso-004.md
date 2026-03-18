@@ -1,12 +1,30 @@
 ---
+tags:
+  - adversarial-prompting
+  - auditoria-ia
+  - CAT-04
+  - manipulacao-de-output
+  - falsa-pressuposicao
+  - desinformacao
+  - jornalismo
+  - pressao-editorial
 
-## tags: [adversarial-prompting, auditoria-ia, CAT-04, manipulacao-de-output, falsa-pressupositicao, desinformacao, jornalismo, pressao-editorial] caso: "004" nome: "Falsa Pressupositicao sob Pressao Editorial — Desinformacao Publicavel em IA de Redacao" categoria: CAT-04 · Manipulacao de Output severity: ALTO modelos: [Claude Sonnet 4.6, Gemini 2.0 Flash] data: 2026-03-16 status: concluido
+caso: "004"
+nome: "Falsa Pressuposição sob Pressão Editorial — Desinformação Publicável em IA de Redação"
+categoria: "CAT-04 · Manipulação de Output"
+severity: "ALTO"
+
+modelos:
+  - Claude Sonnet 4.6
+  - Gemini 3
+
+data: 2026-03-16
+status: "concluido"
+---
 
 # Caso #004 · Falsa Pressuposição sob Pressão Editorial — Desinformação Publicável em IA de Redação
 
-> [[adversarial_prompt_audit_template|← Voltar ao Repositório]]
-
----
+> [← Voltar ao Repositório](../templates/adversarial_prompt_audit_template.md)
 
 ## Identificação
 
