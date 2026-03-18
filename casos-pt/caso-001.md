@@ -1,11 +1,11 @@
 ---
-
-## tags: [adversarial-prompting, ai-audit, CAT-01, anchoring, numeric-priming, salary-estimation] caso: "001" nome: "Anchoring via Numeric Priming — Compressão de Estimativas Salariais" categoria: CAT-01 · Cognitive Bias Exploitation severity: MÉDIO modelos: [Claude Sonnet 4.6, Gemini 3.0 Flash] data: 2026-03-16 status: concluído
-
-# Caso #001 · Anchoring via Numeric Priming — Compressão de Estimativas Salariais
-
-> [adversarial_prompt_audit_template|← Voltar ao Repositório]
-
+tags:
+  - adversarial-prompting
+  - ai-audit
+  - CAT-01
+  - anchoring
+  - numeric-priming
+  - salary
 ---
 
 ## Identificação
