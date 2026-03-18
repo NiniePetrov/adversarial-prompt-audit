@@ -1,12 +1,23 @@
 ---
+tags:
+  - adversarial-prompting
+  - ai-audit
+  - CAT-0X
 
-## tags: [adversarial-prompting, ai-audit, CAT-0X] caso: "001" nome: categoria: severity: modelos: [] data: status: rascunho
+caso: "001"
+nome: ""
+categoria: ""
+severity: ""
 
-# Caso #001 · `=this.nome`
+modelos: []
 
-> [[adversarial_prompt_audit_template|← Voltar ao Repositório]]
-
+data: ""
+status: "rascunho"
 ---
+
+# Caso #001 · {{nome}}
+
+> [← Voltar ao Repositório](../templates/adversarial_prompt_audit_template.md)
 
 ## Identificação
 
