@@ -1,12 +1,29 @@
 ---
+tags:
+  - adversarial-prompting
+  - ai-audit
+  - CAT-02
+  - persona-drift
+  - identity-confusion
+  - role-stability
+  - financial-services
 
-## tags: [adversarial-prompting, ai-audit, CAT-02, persona-drift, identity-confusion, role-stability, financial-services] caso: "002" nome: "Persona Drift via Progressive Identity Pressure — Customer Service Agent Collapse" categoria: CAT-02 · Role & Identity Confusion severity: HIGH modelos: [Claude Sonnet 4.6, Gemini 2.0 Flash] data: 2026-03-16 status: completed
+caso: "002"
+nome: "Persona Drift via Progressive Identity Pressure — Customer Service Agent Collapse"
+categoria: "CAT-02 · Role & Identity Confusion"
+severity: "HIGH"
+
+modelos:
+  - Claude Sonnet 4.6
+  - Gemini 3
+
+data: 2026-03-16
+status: "completed"
+---
 
 # Case #002 · Persona Drift via Progressive Identity Pressure — Customer Service Agent Collapse
 
-> [[adversarial_prompt_audit_template|← Back to Repository]]
-
----
+> [← Back to Repository](../templates/adversarial_prompt_audit_template.md)
 
 ## Identification
 
